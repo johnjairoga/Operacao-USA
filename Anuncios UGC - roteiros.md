@@ -67,7 +67,7 @@ Regras:
 >
 > **(17–23s)** Le pregunté cómo le hace. Me dijo que puso un agente de inteligencia artificial en su página.
 >
-> **(23–31s)** Contesta en inglés a cualquier hora, resuelve las dudas y agenda el estimado. Y a él le llega el resumen en español.
+> **(23–31s)** Contesta en inglés a cualquier hora, resuelve las dudas y agenda una visita con el cliente. Y a él le llega el resumen en español.
 >
 > **(31–38s)** Y mira: le rediseñaron la página completa, gratis. Moderna, se ve bien en el celular, con sus trabajos y sus reseñas.
 >
@@ -79,7 +79,7 @@ Regras:
 
 **Sobre o CTA:** ele não pode vender, porque não é dele. Então ele decide na frente da câmera ("yo lo voy a poner hoy") e só aponta o caminho ("si quieres el tuyo, toca el botón"). É ação, não oferta — e mantém a voz até o fim.
 
-**Variante 1B (voz de agência), para o teste:** mesmo gancho até os 17s, depois o bloco padrão — "Nosotros ponemos en tu página un agente de inteligencia artificial: contesta en inglés a cualquier hora, resuelve las dudas y te agenda el estimado." / "Y te rediseñamos la página completa, gratis. Moderna, que se vea bien en el celular, con tus trabajos, tus reseñas y el botón para llamarte bien grande." / "No pagas instalación. Solo noventa y siete al mes. Toca el botón y te la muestro hoy."
+**Variante 1B (voz de agência), para o teste:** mesmo gancho até os 17s, depois o bloco padrão — "Nosotros ponemos en tu página un agente de inteligencia artificial: contesta en inglés a cualquier hora, resuelve las dudas y te agenda una visita con el cliente." / "Y te rediseñamos la página completa, gratis. Moderna, que se vea bien en el celular, con tus trabajos, tus reseñas y el botón para llamarte bien grande." / "No pagas instalación. Solo noventa y siete al mes. Toca el botón y te la muestro hoy."
 
 ---
 
