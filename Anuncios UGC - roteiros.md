@@ -40,6 +40,7 @@ Regras:
 - Nada de "agencia de marketing" nem "automatización" no gancho.
 - Um ângulo por criativo.
 - Sem promessa de faturamento ("vas a ganar X"). Só a dor e o mecanismo.
+- **Uma voz por vídeo.** Ou a voz da agência ("nosotros ponemos en tu página"), ou a voz do colega ("el de al lado lo puso", "yo lo puse"). Trocar de voz no meio quebra o UGC: a pergunta do gancho fica sem resposta e vira comercial. Ver roteiro 1 contra a variante 1B.
 
 ## Casting e direção no Higgsfield
 
@@ -54,23 +55,31 @@ Regras:
 
 # Roteiros
 
-## 1. Tree Service — "em cima da árvore"
+## 1. Tree Service — "em cima da árvore" (voz de colega)
 
-**Cena:** homem de capacete e cinto de segurança, ao lado do caminhão com a motosserra.
+**Cena:** homem de capacete e cinto de segurança, ao lado do caminhão com a motosserra. **O mesmo avatar do começo ao fim** — a agência nunca entra em cena. No bloco de 31–38s, cortar para a tela mostrando a página do vizinho, sem marca visível.
 
 > **(0–3s)** Si tienes una compañía de árboles, esto te va a doler.
 >
 > **(3–11s)** Te subiste a un árbol a las diez de la mañana. Bajaste a la una. Tres llamadas perdidas.
 >
-> **(11–18s)** ¿Y sabes quién sí les contestó? El de la compañía de al lado.
+> **(11–17s)** ¿Y sabes quién sí les contestó? El de la compañía de al lado.
 >
-> **(18–29s)** Nosotros ponemos en tu página un agente de inteligencia artificial: contesta en inglés a cualquier hora, resuelve las dudas y te agenda el estimado.
+> **(17–23s)** Le pregunté cómo le hace. Me dijo que puso un agente de inteligencia artificial en su página.
 >
-> **(29–38s)** Y te rediseñamos la página completa, gratis. Moderna, que se vea bien en el celular, con tus trabajos, tus reseñas y el botón para llamarte bien grande.
+> **(23–31s)** Contesta en inglés a cualquier hora, resuelve las dudas y agenda el estimado. Y a él le llega el resumen en español.
 >
-> **(38–45s)** No pagas instalación. Solo noventa y siete al mes. Toca el botón y te la muestro hoy.
+> **(31–38s)** Y mira: le rediseñaron la página completa, gratis. Moderna, se ve bien en el celular, con sus trabajos y sus reseñas.
+>
+> **(38–45s)** No pagó instalación. Noventa y siete al mes. Yo lo voy a poner hoy. Si quieres el tuyo, toca el botón.
 
 **Texto na tela:** "3 llamadas perdidas = 1 trabajo perdido"
+
+**Por que assim:** o "¿quién sí les contestó?" abre uma pergunta. Se aos 18s entra a agência vendendo, a pergunta fica sem resposta e o vídeo vira comercial. Aqui quem responde é o mesmo colega, e a resposta é o mecanismo. O "le pregunté cómo le hace" é a linha que dá licença para ele saber o preço e o detalhe — sem ela, soa inventado.
+
+**Sobre o CTA:** ele não pode vender, porque não é dele. Então ele decide na frente da câmera ("yo lo voy a poner hoy") e só aponta o caminho ("si quieres el tuyo, toca el botón"). É ação, não oferta — e mantém a voz até o fim.
+
+**Variante 1B (voz de agência), para o teste:** mesmo gancho até os 17s, depois o bloco padrão — "Nosotros ponemos en tu página un agente de inteligencia artificial: contesta en inglés a cualquier hora, resuelve las dudas y te agenda el estimado." / "Y te rediseñamos la página completa, gratis. Moderna, que se vea bien en el celular, con tus trabajos, tus reseñas y el botón para llamarte bien grande." / "No pagas instalación. Solo noventa y siete al mes. Toca el botón y te la muestro hoy."
 
 ---
 
@@ -276,6 +285,7 @@ Déjanos tus datos y te lo mostramos hoy mismo. 👇
 - Em cada conjunto: **2 vídeos UGC + 2 imagens**.
 - Cada vídeo com **2 avatares diferentes** = variação sem custo de roteiro novo.
 - **Teste de gancho:** o roteiro 9 (página primeiro) contra o roteiro 1 (agente primeiro), no mesmo nicho. Isso responde qual das duas entregas vende mais.
+- **Teste de voz:** roteiro 1 (voz de colega) contra a variante 1B (voz de agência), mesmo gancho, mesmo avatar, mesmo conjunto. É a única diferença entre os dois, então o resultado é limpo. Se a voz de colega ganhar, reescrever 2 a 6 no mesmo molde.
 - **Teste de preço:** metade dos criativos fecha dizendo "noventa y siete al mes" e a outra metade só com "sin costo de implementación". Falar o preço traz menos lead, mas lead mais qualificado. Comparar pelo custo por chamada agendada, não pelo custo por lead.
 - O que se mede: custo por lead, % que agenda, % que comparece.
 - Regra: só trocar o roteiro depois de 50 cliques no anúncio. Antes disso é ruído.
